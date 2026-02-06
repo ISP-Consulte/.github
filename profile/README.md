@@ -55,20 +55,6 @@ Criamos soluções sob medida para necessidades reais do dia a dia:
 
 ---
 
-## 📦 Repositórios
-
-Este GitHub centraliza:
-- Projetos internos da ISP Consulte  
-- Ferramentas de automação  
-- Aplicações web  
-- Experimentos com IA  
-- Soluções desenvolvidas para apoiar nossos clientes  
-
-Repositório principal:
-- **Projeto-ISP-Consulte**
-
----
-
 ## 👥 Organização
 
 **ISP Consulte**  
